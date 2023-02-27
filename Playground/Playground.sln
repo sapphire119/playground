@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Index", "01.Index\01.Index.csproj", "{DC76E744-C7EA-414D-BABD-B5526B19CC3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuples", "Tuples\Tuples.csproj", "{1CF66C20-A4D4-47C5-B6E2-1DF3DA66DEC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternMatching", "PatternMatching\PatternMatching.csproj", "{BC3D3223-91E7-48F0-82F6-955EF20DC5AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC76E744-C7EA-414D-BABD-B5526B19CC3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC76E744-C7EA-414D-BABD-B5526B19CC3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC76E744-C7EA-414D-BABD-B5526B19CC3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC76E744-C7EA-414D-BABD-B5526B19CC3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CF66C20-A4D4-47C5-B6E2-1DF3DA66DEC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF66C20-A4D4-47C5-B6E2-1DF3DA66DEC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CF66C20-A4D4-47C5-B6E2-1DF3DA66DEC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF66C20-A4D4-47C5-B6E2-1DF3DA66DEC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC3D3223-91E7-48F0-82F6-955EF20DC5AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3D3223-91E7-48F0-82F6-955EF20DC5AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3D3223-91E7-48F0-82F6-955EF20DC5AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3D3223-91E7-48F0-82F6-955EF20DC5AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AB93FAE-9A9F-4DCD-ABAF-24716E7C2337}
+	EndGlobalSection
+EndGlobal
